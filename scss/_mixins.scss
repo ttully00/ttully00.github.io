@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @mixin body-font() {
   font-family: 'Lato';
 }
@@ -6,3 +7,13 @@
   font-weight: 700;
   font-family: 'Montserrat';
 }
+=======
+@mixin body-font() {
+  font-family: 'Lato';
+}
+
+@mixin heading-font() {
+  font-weight: 700;
+  font-family: 'Montserrat';
+}
+>>>>>>> 3d3ee3ce228e48121bc65ccb202298c9a51aa556

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -8,3 +9,15 @@
 .copyright {
   background-color: darken($secondary, 10%);
 }
+=======
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: $secondary;
+  color: $white;
+}
+
+.copyright {
+  background-color: darken($secondary, 10%);
+}
+>>>>>>> 3d3ee3ce228e48121bc65ccb202298c9a51aa556
