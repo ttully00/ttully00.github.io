@@ -44,7 +44,6 @@
         "gulp-uglify": "3.0.0"
     }
 }
-=======
 {
     "title": "Freelancer",
     "name": "startbootstrap-freelancer",
@@ -90,4 +89,4 @@
         "gulp-uglify": "3.0.0"
     }
 }
->>>>>>> 3d3ee3ce228e48121bc65ccb202298c9a51aa556
+
